@@ -1,0 +1,34 @@
+
+body{
+    background-image: url('landingpage.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#navmenu a{
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+}
+#navmenu a:hover{
+    color: rgb(231, 165, 165);
+}
+#mainbar{
+    text-align: center;
+}
+#headn{
+    margin-right: 5%;
+    color: rgb(231, 165, 165);
+}
+hr.new1 {
+    border-top: 5px solid rgb(231, 165, 165);
+    width:120px;
+    border-radius:10px;
+    float: left;}
+#more {display: none;}
+main div{
+    display: none;
+}
+.active{
+    display: block;
+}
